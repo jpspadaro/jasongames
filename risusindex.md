@@ -20,4 +20,3 @@ title: Risus Adventures
 
 ## Adventures
 
-<a href="/jasongames"><i class="fas fa-home"></i> Home</a>
