@@ -5,6 +5,7 @@ title: Risus Adventures
 <style>
   img {
     float:right;
+    margin: 5px;
   }
 </style>
 
@@ -14,3 +15,8 @@ title: Risus Adventures
 # Risus Stuff
 ## Links
 - [Risusiverse](http://www.risusiverse.com/)
+
+## Settings
+
+## Adventures
+
