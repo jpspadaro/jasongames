@@ -9,7 +9,7 @@ title: Risus Adventures
 
 # Risus Stuff
 ## Paperwork?!?
-- [Risus Gm Tool](./RisusGMTool)
+- [Risus GM Tool](./RisusGMTool)
 
 ## Links
 - [Risusiverse](http://www.risusiverse.com/)
