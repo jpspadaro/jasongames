@@ -1,6 +1,6 @@
 ---
 title: What is this?
-type: post
+layout: post
 date: 05-23-2019
 ---
 # What is this?
