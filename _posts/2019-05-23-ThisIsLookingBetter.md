@@ -1,6 +1,5 @@
 ---
 title: This is Looking Better
-layout: post
 ---
 # This is Looking Better
 *2019-05-23*
