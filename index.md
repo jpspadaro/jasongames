@@ -22,6 +22,7 @@ A page providing tabletop gaming resources created by Jason!
 
 # Gaming Resources
 [Risus Material](./risusindex)
+[OSR Fantasy Roleplaying](./OSRindex)
 
 ---
 *Knucklebones image courtesy of Sarah Joy from United Kingdom [<a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Mongolian_game_(6325695968).jpg">via Wikimedia Commons</a>*
