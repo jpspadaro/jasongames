@@ -22,4 +22,4 @@ A page providing tabletop gaming resources created by Jason!
 [Risus Material](./risusindex)
 
 
-<a href="/jasongames"><i class="fas fa-home"></i> Home</a>
+<a href="/jasongames"><i class="fas fa-home"></i> Home</a><a href="/"><i class="fas fa-user-circle"></i> About Me</a>
