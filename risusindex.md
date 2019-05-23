@@ -13,6 +13,7 @@ title: Risus Adventures
 
 ## Links
 - [Risusiverse](http://www.risusiverse.com/)
+- [SCP Field Work](http://scp-field-work.wikidot.com/start)
 
 ## Settings
 
