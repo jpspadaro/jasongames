@@ -1,6 +1,6 @@
 ---
 title: What is this?
-layout: post
+layout: posts
 date: 2019-05-23
 ---
  <style> .sideimg {float:right; margin: 5px;}</style>
