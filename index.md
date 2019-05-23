@@ -7,9 +7,6 @@ description: Jason's Table Top Gaming Resource
 <a href="/jasongames"><i class="fas fa-home"></i> Home</a> &nbsp;<a href="/"><i class="fas fa-user-circle"></i> About Me</a>
 
 
-# What is this?
-A page providing tabletop gaming resources created by Jason!
-
 # Posts
 - [What Is This?](./2019/05/23/Whatisthis.html) - *2019-05-23*
 
@@ -21,8 +18,8 @@ A page providing tabletop gaming resources created by Jason!
 - [BFRPG](https://basicfantasy.org/index.html)
 
 # Gaming Resources
-[Risus Material](./risusindex)
-[OSR Fantasy Roleplaying](./OSRindex)
+- [Risus Material](./risusindex)
+- [OSR Fantasy Roleplaying](./OSRindex)
 
 ---
 *Knucklebones image courtesy of Sarah Joy from United Kingdom [<a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Mongolian_game_(6325695968).jpg">via Wikimedia Commons</a>*
