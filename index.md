@@ -1,5 +1,5 @@
 ---
-title: Jason Games
+title: JasonGames
 description: Jason's Table Top Gaming Resource
 ---
 
