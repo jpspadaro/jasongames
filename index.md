@@ -2,6 +2,7 @@
 title: JasonGames
 description: Jason's Table Top Gaming Resource
 ---
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 <style> .sideimg {float:right; margin: 5px;}</style> 
 
 # What is this?
@@ -19,3 +20,6 @@ A page providing tabletop gaming resources created by Jason!
 
 # Gaming Resources
 [Risus Material](./risusindex)
+
+
+<a href="/"><i class="fas fa-home"></i> Home</a>
