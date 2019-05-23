@@ -10,13 +10,13 @@ title: OSR Adventures
 
 # OSR Stuff
 ## Paperwork?!?
-[BFRPG Sheets](https://www.basicfantasy.org/downloads.html#download-standardsheet)
+- [BFRPG Sheets](https://www.basicfantasy.org/downloads.html#download-standardsheet)
 
 ## Links
-[GORE Rules](https://www.drivethrurpg.com/product_info.php?src=2077&products_id=28521&)
+- [GORE Rules](https://www.drivethrurpg.com/product_info.php?src=2077&products_id=28521&)
 
 ## Settings
-[Voidspanners: BFRPG take on Spelljammer](https://www.basicfantasy.org/showcase.cgi?sid=110)
+- [Voidspanners: BFRPG take on Spelljammer](https://www.basicfantasy.org/showcase.cgi?sid=110)
 
 ## Adventures
 - [Buckling Swashes](https://docs.google.com/document/d/1X3gxf10pw75Uzv7lCd7F9d9KSZH3snPWybJ6pz-5qGc/edit?usp=sharing) - *An adventure that I wrote a while back for Swords and Wizardry White Box. We only got part of the way through it before life got in the way.*
