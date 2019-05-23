@@ -8,7 +8,9 @@ description: Jason's Table Top Gaming Resource
 
 
 # Posts
+- [This is Looking Better](./2019/05/23/ThisIsLookingBetter.html) - *2019-05-23*
 - [What Is This?](./2019/05/23/Whatisthis.html) - *2019-05-23*
+
 
 <span class="sideimg">![Knucklebones](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mongolian_game_%286325695968%29.jpg/160px-Mongolian_game_%286325695968%29.jpg)</span>
 
