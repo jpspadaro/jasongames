@@ -16,7 +16,7 @@ title: Risus Adventures
 - [Risusiverse](http://www.risusiverse.com/)
 
 ## Settings
-- [SCP Field Work](http://scp-field-work.wikidot.com/start) - *Not mine, but these guys are awesome. [SCP](https://scp-wiki.net) is definitely my fandom at this point.*
+- [SCP Field Work](http://scp-field-work.wikidot.com/start) - *Not mine, but these guys are awesome. [SCP](http://www.scp-wiki.net/) is definitely my fandom at this point.*
 
 ## Adventures
 
