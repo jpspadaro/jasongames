@@ -8,6 +8,7 @@ description: Jason's Table Top Gaming Resource
 
 
 # Posts
+- [Foundation Risus](./2019/06/01/FoundationRisus.html) - *2019-06-01*
 - [This is Looking Better](./2019/05/23/ThisIsLookingBetter.html) - *2019-05-23*
 - [What Is This?](./2019/05/23/Whatisthis.html) - *2019-05-23*
 
