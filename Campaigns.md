@@ -11,3 +11,4 @@ title: Campaigns
 ## Rando BFRP Campaign
 
 A simple dungeon crawl I'm setting up to break up DJ GMing if he ever wants to. It's mostly generated from [Wizardawn](https://wizardawn.and-mag.com/rpg_bfrpg.php).
+- The town of [Edgepoint](https://github.com/jpspadaro/jasongames/raw/master/Edgepoint.pdf)
