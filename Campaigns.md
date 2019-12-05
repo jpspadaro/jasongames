@@ -7,4 +7,7 @@ title: Campaigns
 
 # Campaigns
 <i class="fab fa-fort-awesome-alt fa-10x" style="float:right;"></i>
-*Campaign specific material.*
+
+## Rando BFRP Campaign
+
+A simple dungeon crawl I'm setting up to break up DJ GMing if he ever wants to. It's mostly generated from [Wizardawn](https://wizardawn.and-mag.com/rpg_bfrpg.php).
