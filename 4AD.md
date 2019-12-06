@@ -8,3 +8,9 @@ title: OSR Adventures
 <span class="sideimg">![4AD Image](http://www.ganeshagames.net/thumb2.php?r=four+against+darkness+preview+sito.jpg)</span>
 
 # Four Against Darkness
+
+## Current Games
+> Damn it. My wizard's dead.
+
+## Links
+- [Boardgamegeek](https://boardgamegeek.com/boardgame/197097/four-against-darkness) - Great resources for fan made supplemental material.
