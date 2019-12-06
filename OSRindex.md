@@ -15,6 +15,7 @@ title: OSR Adventures
 ## Links
 - [GORE Rules](https://www.drivethrurpg.com/product_info.php?src=2077&products_id=28521&)
 - [Swords and Wizardry Whitebox .doc](https://www.dropbox.com/s/cs61vq5q476q7in/SWWBdoc.doc?dl=0)
+- [Wizardawn Generators](http://wizardawn.and-mag.com/)
 
 ## Settings
 - [Voidspanners: BFRPG take on Spelljammer](https://www.basicfantasy.org/showcase.cgi?sid=110)
