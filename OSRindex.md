@@ -11,7 +11,8 @@ title: OSR Adventures
 # OSR Stuff
 ## Paperwork?!?
 - [BFRPG Sheets](https://www.basicfantasy.org/downloads.html#download-standardsheet)
-
+### Maps
+- ![](https://github.com/jpspadaro/jasongames/raw/master/Map1.jpg)
 ## Links
 - [GORE Rules](https://www.drivethrurpg.com/product_info.php?src=2077&products_id=28521&)
 - [Swords and Wizardry Whitebox .doc](https://www.dropbox.com/s/cs61vq5q476q7in/SWWBdoc.doc?dl=0)
